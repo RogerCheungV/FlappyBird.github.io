@@ -46,7 +46,6 @@
     },
 
     // 初始化管道高度和坐标
-    // 这个方法什么时候调用？？？
     initPipeHeight: function () {
       // 随机生成上面管道的高度
       var pipeTopHeight = Math.random() * 200 + 50;
